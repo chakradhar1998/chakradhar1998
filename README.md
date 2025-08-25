@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chakradhar</h1>
 <h3 align="center">A passionate devops Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakradhar1998" alt="chakradhar1998" /></a> </p>
+<p align="left"> <a href="https://github.com/chakradhar1998/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakradhar1998" alt="chakradhar1998" /></a> </p>
 
 - 🔭 I’m currently working on [Terraform](https://github.com/chakradhar1998/Azure-Infra)
 
