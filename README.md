@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Terraform](https://github.com/chakradhar1998/az-tf)
 
-- 🌱 I’m currently learning **Github Actions, Azure, Terraform, Docker**
+- 💼 I have experience in **Azure, DevOps, Kubernetes, and Terraform**
 
 - 📫 How to reach me **chakradhar.gorthi@gmail.com**
 
